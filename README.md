@@ -17,4 +17,5 @@ Here is my python scripts. You can use/modified, but if you modified, please mak
 I always made some modification and create new files, take a watch.
 
 `cnpj.py` - Script to validade brazilian CNPJ <br>
-`cpf.py` - Script to validade brazilian CPF
+`cpf.py` - Script to validade brazilian CPF <br>
+`br.py`- Small Binary Tree implementation, with insert, show (print) tree and compare. <br>
