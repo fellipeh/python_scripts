@@ -7,7 +7,7 @@ Estarei sempre modificando os arquivo e adicionando novos.
 
 `cnpj.py` - Script para validar CNPJ <br>
 `cpf.py` - Script para validar CPF
-
+`bt.py` - Pequeno script onde demonstro a criação de uma árvore binária, contendo função de incluir, exibir a árvore e comparar.
 
 
 Scripts in Python
