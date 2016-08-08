@@ -1,12 +1,13 @@
 Script em Python
 ===================
+Teste
 
 Abaixo estão alguns scripts desenvolvidos por mim, na liguagem python. Pode usar a vontade, e se melhorar algo basta enviar um Pull Request. <BR>
 
 Estarei sempre modificando os arquivo e adicionando novos. 
 
 `cnpj.py` - Script para validar CNPJ <br>
-`cpf.py` - Script para validar CPF
+i`cpf.py` - Script para validar CPF
 `bt.py` - Pequeno script onde demonstro a criação de uma árvore binária, contendo função de incluir, exibir a árvore e comparar.
 
 
